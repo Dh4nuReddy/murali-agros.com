@@ -1,0 +1,212 @@
+.logo-css
+{
+    height: 50px;
+    width: 50px;
+}
+.bg-img{
+    background-image: url('https://img.freepik.com/free-photo/car-accessories-with-copy-space_23-2149030401.jpg?size=626&ext=jpg&ga=GA1.2.2084132474.1723736852&semt=ais_hybrid');
+    height: 90vh;
+    background-size: cover;
+}
+.bgh1-text
+{
+    color: white;
+    
+    font-weight: bold;
+}
+.bgp-text{
+    color:white;
+    
+    font-weight: bolder;
+
+}
+.products-btn
+{
+    width: 130px;
+    height: 45px;
+    color: rgb(94, 172, 94);
+    font-weight: bold;
+    background-color:rgb(255, 255, 255);
+    border-width: 0;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+.order-btn
+{
+    width: 130px;
+    height: 45px;
+    color: white;
+    background: transparent;
+    border-color: white;
+    border-width: 2.5px;
+    border-radius: 10px;
+    border-style: solid;
+    font-weight: bold;
+   
+
+}
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.healthy-food-section {
+  background-color: #f9fbfe;
+}
+.healthy-food-section-img {
+  width: 270px;
+}
+.healthy-food-section-heading {
+  font-family: "Roboto";
+  font-weight: 700;
+  font-size: 28px;
+  color: #183b56;
+}
+.healthy-food-section-description {
+  color: #5a7184;
+  font-family: "Roboto";
+  font-size: 16px;
+}
+.custom-button {
+  width: 130px;
+  height: 45px;
+  color: white;
+  background-color: #d0b200;
+  border-width: 0;
+  border-radius: 8px;
+  margin-right: 10px;
+}
+.delivery-and-payment-section-img {
+  width: 270px;
+}
+.delivery-and-payment-section-heading {
+  font-family: "Roboto";
+  font-weight: 700;
+  font-size: 28px;
+  color: #183b56;
+}
+.delivery-and-payment-section-description {
+  color: #5a7184;
+  font-family: "Roboto";
+  font-size: 16px;
+}
+.payment-card-img {
+  width: 50px;
+  height: 50px;
+  margin-right: 28px;
+}
+.thanking-customers-section {
+  background-color: #d0b2001a;
+}
+.thanking-customers-section-heading {
+  font-family: "Roboto";
+  font-weight: 700;
+  font-size: 28px;
+  color: #183b56;
+}
+.thanking-customers-section-description {
+  color: #5a7184;
+  font-family: "Roboto";
+  font-size: 16px;
+}
+.thanking-customers-section-img {
+  width: 270px;
+  margin-bottom: 20px;
+}
+.pro-main-bg
+{
+    background-color: rgb(245, 242, 242);
+}
+.explore-products-h1
+{
+    font-weight: 700;
+    font-size: 28px;
+    color: rgb(5,5,120)
+}
+.explore-product-img
+{
+   
+border-radius: 15px;
+    
+
+}
+.product-item-link
+{
+    color: rgb(146, 159, 30);
+    font-weight: 500;
+    font-size: 14px;
+}
+.explore-product-heading
+{
+    color: rgb(5,5,120);
+    font-weight: 500;
+    font-size: 18px;
+    margin-top: 2
+    4px;
+}
+.imh-1
+{
+    border-radius: 15px;
+        
+}
+.wcsh1
+{
+    font-weight: 700;
+    font-size: 30px;
+    color: rgb(5, 5, 121);
+}
+.wcu-p
+{
+    color: rgb(109, 99, 99);
+    font-size: 16px;
+}
+.wcs-card1
+{
+    background-color: white;
+    text-align: center;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(5, 5, 121);
+    border-radius: 16px;
+    margin: 10px;
+    
+}
+.wcs-card2
+{
+    background-color: white;
+    text-align: center;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(5, 5, 121);
+    border-radius: 16px;
+    margin:10px;
+}
+.wcs-card3
+{
+    background-color: white;
+    text-align: center;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(5, 5, 121);
+    border-radius: 16px;
+    margin: 10px;
+}
+.wcs-cd1-img
+{
+ height: 9opx;
+ width: 87px;
+}
+.wcs-card1-h1
+{ 
+    font-weight: 500;
+    font-size: 22px;
+    color: rgb(5, 5, 121);
+
+}
+.wcs-card1-p
+{
+    font-size: 16px;
+    color: rgb(9, 5, 5)
+
+}
+.card3hiltxt
+{
+    font-weight: 500;
+    color: rgb(5, 5, 121);
+}
